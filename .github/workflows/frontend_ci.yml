@@ -1,5 +1,5 @@
 # week07/.github/workflows/frontend_ci.yml
-
+#frontend test, build and push image to ACR
 name: Frontend CI - Build & Push Image
 
 on:
